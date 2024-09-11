@@ -3,7 +3,7 @@ import os
 import random
 import time
 
-IMAGES_DIR = "C:\\Users\\Jeremias\\Pictures\\Saved Pictures"
+IMAGES_DIR = "C:\\Users\\..."
 INTERVAL_DAYS = 2
 
 def change_wallpaper(image_path):
